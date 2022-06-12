@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @LiamSo121
+- 👋 Hi, I’m Liam sobol
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Phyton,C++,SQL,Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on...
 - 📫 Liam121300@gmail.com
 
 <!---
